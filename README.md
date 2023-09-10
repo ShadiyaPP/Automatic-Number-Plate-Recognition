@@ -4,7 +4,7 @@ This repository contains a Python project for Automatic Number Plate Recognition
 Before you begin, ensure you have met the following requirements:
 - Python 3.x installed on your system.
 - Required libraries: OpenCV, EasyOCR. You can install them using pip:
-      pip install opencv-python
+      pip install opencv-python , 
       pip install easyocr
 
 How it Works
