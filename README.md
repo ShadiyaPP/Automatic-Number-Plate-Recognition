@@ -15,4 +15,5 @@ How it Works
   4. Text Recognition: EasyOCR is employed to recognize the text on the number plate in real-time.
 
 Results
+
       You can view the real-time results, including recognized text, in the webcam feed.
